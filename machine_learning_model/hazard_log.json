@@ -1,0 +1,3972 @@
+[
+    {
+        "timestamp": "2026-05-16 15:51:23",
+        "status": "HAZARD",
+        "confidence": 67.12,
+        "location_x": -1.47,
+        "location_z": 0.06,
+        "est_width": 4.13,
+        "est_length": 3.78,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:51:24",
+        "status": "HAZARD",
+        "confidence": 70.74,
+        "location_x": -0.4,
+        "location_z": 0.46,
+        "est_width": 4.83,
+        "est_length": 4.94,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:51:25",
+        "status": "HAZARD",
+        "confidence": 88.98,
+        "location_x": -0.07,
+        "location_z": 0.01,
+        "est_width": 2.4,
+        "est_length": 3.95,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:51:26",
+        "status": "HAZARD",
+        "confidence": 86.57,
+        "location_x": 0.64,
+        "location_z": 0.02,
+        "est_width": 3.28,
+        "est_length": 4.04,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:51:27",
+        "status": "HAZARD",
+        "confidence": 89.8,
+        "location_x": 0.43,
+        "location_z": 0.43,
+        "est_width": 5.23,
+        "est_length": 4.9,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:51:28",
+        "status": "HAZARD",
+        "confidence": 75.54,
+        "location_x": 0.65,
+        "location_z": 0.4,
+        "est_width": 4.67,
+        "est_length": 4.32,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:51:29",
+        "status": "HAZARD",
+        "confidence": 84.95,
+        "location_x": 0.41,
+        "location_z": 0.02,
+        "est_width": 3.11,
+        "est_length": 4.47,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:51:30",
+        "status": "HAZARD",
+        "confidence": 91.74,
+        "location_x": 0.87,
+        "location_z": 0.02,
+        "est_width": 5.57,
+        "est_length": 5.24,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:51:31",
+        "status": "HAZARD",
+        "confidence": 86.75,
+        "location_x": 0.61,
+        "location_z": -0.19,
+        "est_width": 3.14,
+        "est_length": 4.25,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:51:32",
+        "status": "HAZARD",
+        "confidence": 90.92,
+        "location_x": 0.83,
+        "location_z": -0.43,
+        "est_width": 0.52,
+        "est_length": 0.51,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:51:33",
+        "status": "HAZARD",
+        "confidence": 90.5,
+        "location_x": 0.34,
+        "location_z": -0.05,
+        "est_width": 3.1,
+        "est_length": 4.19,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:51:34",
+        "status": "HAZARD",
+        "confidence": 84.24,
+        "location_x": 0.42,
+        "location_z": 0.16,
+        "est_width": 3.14,
+        "est_length": 4.4,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:51:35",
+        "status": "HAZARD",
+        "confidence": 90.99,
+        "location_x": 1.0,
+        "location_z": -0.19,
+        "est_width": 1.93,
+        "est_length": 3.5,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:51:36",
+        "status": "HAZARD",
+        "confidence": 83.64,
+        "location_x": 0.84,
+        "location_z": -0.49,
+        "est_width": 0.42,
+        "est_length": 0.65,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:51:37",
+        "status": "HAZARD",
+        "confidence": 87.56,
+        "location_x": 0.85,
+        "location_z": -0.43,
+        "est_width": 0.95,
+        "est_length": 2.27,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:51:38",
+        "status": "HAZARD",
+        "confidence": 82.63,
+        "location_x": 0.61,
+        "location_z": -0.28,
+        "est_width": 3.0,
+        "est_length": 4.48,
+        "lidar_hits": 14
+    },
+    {
+        "timestamp": "2026-05-16 15:51:39",
+        "status": "HAZARD",
+        "confidence": 91.37,
+        "location_x": 0.79,
+        "location_z": -0.25,
+        "est_width": 4.25,
+        "est_length": 4.29,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:52:05",
+        "status": "HAZARD",
+        "confidence": 87.43,
+        "location_x": 0.89,
+        "location_z": 0.04,
+        "est_width": 4.8,
+        "est_length": 4.22,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:52:06",
+        "status": "HAZARD",
+        "confidence": 89.4,
+        "location_x": 0.98,
+        "location_z": -0.12,
+        "est_width": 2.75,
+        "est_length": 5.04,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:52:07",
+        "status": "HAZARD",
+        "confidence": 91.01,
+        "location_x": 0.97,
+        "location_z": -0.28,
+        "est_width": 2.02,
+        "est_length": 3.69,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:52:08",
+        "status": "HAZARD",
+        "confidence": 90.8,
+        "location_x": 0.21,
+        "location_z": 0.38,
+        "est_width": 3.2,
+        "est_length": 4.23,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:52:09",
+        "status": "HAZARD",
+        "confidence": 85.29,
+        "location_x": 0.79,
+        "location_z": -0.46,
+        "est_width": 0.56,
+        "est_length": 0.55,
+        "lidar_hits": 13
+    },
+    {
+        "timestamp": "2026-05-16 15:52:10",
+        "status": "HAZARD",
+        "confidence": 90.19,
+        "location_x": 0.59,
+        "location_z": -0.27,
+        "est_width": 3.2,
+        "est_length": 4.18,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:52:11",
+        "status": "HAZARD",
+        "confidence": 89.14,
+        "location_x": 0.54,
+        "location_z": 0.44,
+        "est_width": 5.56,
+        "est_length": 5.27,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:52:12",
+        "status": "HAZARD",
+        "confidence": 88.37,
+        "location_x": 0.86,
+        "location_z": -0.24,
+        "est_width": 1.61,
+        "est_length": 2.8,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:52:13",
+        "status": "HAZARD",
+        "confidence": 91.85,
+        "location_x": 0.84,
+        "location_z": -0.13,
+        "est_width": 5.51,
+        "est_length": 5.29,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:52:14",
+        "status": "HAZARD",
+        "confidence": 90.14,
+        "location_x": 0.18,
+        "location_z": 0.37,
+        "est_width": 3.15,
+        "est_length": 4.41,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:52:15",
+        "status": "HAZARD",
+        "confidence": 91.02,
+        "location_x": 0.6,
+        "location_z": 0.03,
+        "est_width": 4.21,
+        "est_length": 4.26,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:52:16",
+        "status": "HAZARD",
+        "confidence": 87.75,
+        "location_x": 0.84,
+        "location_z": -0.33,
+        "est_width": 0.9,
+        "est_length": 2.2,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:52:17",
+        "status": "HAZARD",
+        "confidence": 91.46,
+        "location_x": 0.65,
+        "location_z": -0.17,
+        "est_width": 4.28,
+        "est_length": 4.22,
+        "lidar_hits": 30
+    },
+    {
+        "timestamp": "2026-05-16 15:52:18",
+        "status": "HAZARD",
+        "confidence": 87.11,
+        "location_x": 0.57,
+        "location_z": 0.19,
+        "est_width": 5.62,
+        "est_length": 5.33,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:52:19",
+        "status": "HAZARD",
+        "confidence": 78.57,
+        "location_x": 0.77,
+        "location_z": 0.15,
+        "est_width": 5.49,
+        "est_length": 5.23,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:52:20",
+        "status": "HAZARD",
+        "confidence": 91.37,
+        "location_x": 0.96,
+        "location_z": -0.35,
+        "est_width": 1.71,
+        "est_length": 3.05,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:52:21",
+        "status": "HAZARD",
+        "confidence": 92.82,
+        "location_x": 0.5,
+        "location_z": 0.17,
+        "est_width": 4.18,
+        "est_length": 4.47,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:52:22",
+        "status": "HAZARD",
+        "confidence": 91.99,
+        "location_x": 0.03,
+        "location_z": 0.45,
+        "est_width": 3.2,
+        "est_length": 4.28,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:52:23",
+        "status": "HAZARD",
+        "confidence": 87.56,
+        "location_x": 0.55,
+        "location_z": 0.28,
+        "est_width": 4.32,
+        "est_length": 4.21,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:52:24",
+        "status": "HAZARD",
+        "confidence": 88.33,
+        "location_x": 1.17,
+        "location_z": 0.12,
+        "est_width": 2.9,
+        "est_length": 5.29,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:52:25",
+        "status": "HAZARD",
+        "confidence": 90.55,
+        "location_x": 0.8,
+        "location_z": -0.03,
+        "est_width": 4.27,
+        "est_length": 4.26,
+        "lidar_hits": 36
+    },
+    {
+        "timestamp": "2026-05-16 15:52:26",
+        "status": "HAZARD",
+        "confidence": 89.22,
+        "location_x": 0.75,
+        "location_z": -0.37,
+        "est_width": 3.09,
+        "est_length": 4.17,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:52:27",
+        "status": "HAZARD",
+        "confidence": 87.73,
+        "location_x": 0.75,
+        "location_z": -0.19,
+        "est_width": 3.57,
+        "est_length": 4.12,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:52:28",
+        "status": "HAZARD",
+        "confidence": 91.01,
+        "location_x": 0.81,
+        "location_z": -0.05,
+        "est_width": 4.53,
+        "est_length": 3.77,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:52:29",
+        "status": "HAZARD",
+        "confidence": 90.25,
+        "location_x": 0.52,
+        "location_z": 0.31,
+        "est_width": 4.77,
+        "est_length": 4.41,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:52:30",
+        "status": "HAZARD",
+        "confidence": 87.43,
+        "location_x": 0.75,
+        "location_z": -0.07,
+        "est_width": 4.22,
+        "est_length": 4.22,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:52:31",
+        "status": "HAZARD",
+        "confidence": 88.23,
+        "location_x": 0.18,
+        "location_z": 0.38,
+        "est_width": 3.22,
+        "est_length": 4.19,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:52:32",
+        "status": "HAZARD",
+        "confidence": 87.77,
+        "location_x": 0.71,
+        "location_z": -0.15,
+        "est_width": 4.8,
+        "est_length": 4.2,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:52:33",
+        "status": "HAZARD",
+        "confidence": 91.61,
+        "location_x": 0.62,
+        "location_z": 0.4,
+        "est_width": 5.42,
+        "est_length": 5.05,
+        "lidar_hits": 30
+    },
+    {
+        "timestamp": "2026-05-16 15:52:34",
+        "status": "HAZARD",
+        "confidence": 93.21,
+        "location_x": 0.68,
+        "location_z": -0.16,
+        "est_width": 4.19,
+        "est_length": 3.73,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:52:36",
+        "status": "HAZARD",
+        "confidence": 91.43,
+        "location_x": 0.5,
+        "location_z": -0.03,
+        "est_width": 3.1,
+        "est_length": 4.48,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:52:37",
+        "status": "HAZARD",
+        "confidence": 88.7,
+        "location_x": 0.76,
+        "location_z": 0.03,
+        "est_width": 4.87,
+        "est_length": 4.13,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:52:38",
+        "status": "HAZARD",
+        "confidence": 88.14,
+        "location_x": 0.76,
+        "location_z": -0.05,
+        "est_width": 5.26,
+        "est_length": 5.01,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:52:39",
+        "status": "HAZARD",
+        "confidence": 88.99,
+        "location_x": 0.81,
+        "location_z": -0.3,
+        "est_width": 4.2,
+        "est_length": 4.48,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:52:40",
+        "status": "HAZARD",
+        "confidence": 84.2,
+        "location_x": 0.82,
+        "location_z": 0.3,
+        "est_width": 4.77,
+        "est_length": 4.38,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:52:41",
+        "status": "HAZARD",
+        "confidence": 87.15,
+        "location_x": 0.95,
+        "location_z": -0.19,
+        "est_width": 2.68,
+        "est_length": 5.02,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:52:42",
+        "status": "HAZARD",
+        "confidence": 87.37,
+        "location_x": 0.97,
+        "location_z": -0.38,
+        "est_width": 2.83,
+        "est_length": 5.26,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:52:43",
+        "status": "HAZARD",
+        "confidence": 92.03,
+        "location_x": 0.69,
+        "location_z": -0.17,
+        "est_width": 4.68,
+        "est_length": 4.21,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:52:44",
+        "status": "HAZARD",
+        "confidence": 81.1,
+        "location_x": 0.77,
+        "location_z": 0.02,
+        "est_width": 4.4,
+        "est_length": 4.21,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:52:45",
+        "status": "HAZARD",
+        "confidence": 92.23,
+        "location_x": 0.57,
+        "location_z": -0.09,
+        "est_width": 3.14,
+        "est_length": 4.14,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:52:46",
+        "status": "HAZARD",
+        "confidence": 87.99,
+        "location_x": 0.84,
+        "location_z": -0.53,
+        "est_width": 0.48,
+        "est_length": 0.58,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:52:47",
+        "status": "HAZARD",
+        "confidence": 88.19,
+        "location_x": 0.64,
+        "location_z": -0.21,
+        "est_width": 3.14,
+        "est_length": 4.25,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:52:48",
+        "status": "HAZARD",
+        "confidence": 89.6,
+        "location_x": 0.43,
+        "location_z": 0.23,
+        "est_width": 3.68,
+        "est_length": 4.31,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:52:49",
+        "status": "HAZARD",
+        "confidence": 85.28,
+        "location_x": 0.42,
+        "location_z": 0.11,
+        "est_width": 3.26,
+        "est_length": 4.14,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:52:50",
+        "status": "HAZARD",
+        "confidence": 87.81,
+        "location_x": 0.42,
+        "location_z": 0.16,
+        "est_width": 3.56,
+        "est_length": 4.24,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:52:51",
+        "status": "HAZARD",
+        "confidence": 85.48,
+        "location_x": 0.7,
+        "location_z": -0.34,
+        "est_width": 3.13,
+        "est_length": 3.83,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:52:52",
+        "status": "HAZARD",
+        "confidence": 91.8,
+        "location_x": 0.76,
+        "location_z": -0.07,
+        "est_width": 5.82,
+        "est_length": 5.9,
+        "lidar_hits": 35
+    },
+    {
+        "timestamp": "2026-05-16 15:52:53",
+        "status": "HAZARD",
+        "confidence": 92.74,
+        "location_x": 0.57,
+        "location_z": -0.05,
+        "est_width": 4.2,
+        "est_length": 4.46,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:52:54",
+        "status": "HAZARD",
+        "confidence": 89.48,
+        "location_x": 0.33,
+        "location_z": 0.39,
+        "est_width": 4.37,
+        "est_length": 4.3,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:52:55",
+        "status": "HAZARD",
+        "confidence": 91.9,
+        "location_x": 0.87,
+        "location_z": -0.31,
+        "est_width": 0.98,
+        "est_length": 2.21,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:52:56",
+        "status": "HAZARD",
+        "confidence": 92.74,
+        "location_x": 0.71,
+        "location_z": 0.13,
+        "est_width": 4.6,
+        "est_length": 4.25,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:52:57",
+        "status": "HAZARD",
+        "confidence": 92.67,
+        "location_x": 0.93,
+        "location_z": 0.48,
+        "est_width": 5.53,
+        "est_length": 5.31,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:52:58",
+        "status": "HAZARD",
+        "confidence": 86.66,
+        "location_x": 0.8,
+        "location_z": -0.29,
+        "est_width": 3.6,
+        "est_length": 4.26,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:52:59",
+        "status": "HAZARD",
+        "confidence": 90.84,
+        "location_x": 0.53,
+        "location_z": 0.43,
+        "est_width": 5.35,
+        "est_length": 5.06,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:53:00",
+        "status": "HAZARD",
+        "confidence": 90.01,
+        "location_x": 0.71,
+        "location_z": 0.31,
+        "est_width": 5.55,
+        "est_length": 5.33,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:53:01",
+        "status": "HAZARD",
+        "confidence": 92.67,
+        "location_x": 0.68,
+        "location_z": 0.21,
+        "est_width": 4.85,
+        "est_length": 4.38,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:53:02",
+        "status": "HAZARD",
+        "confidence": 89.3,
+        "location_x": 0.42,
+        "location_z": 0.1,
+        "est_width": 3.63,
+        "est_length": 4.21,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:53:03",
+        "status": "HAZARD",
+        "confidence": 90.72,
+        "location_x": 0.78,
+        "location_z": -0.16,
+        "est_width": 3.6,
+        "est_length": 3.8,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:53:04",
+        "status": "HAZARD",
+        "confidence": 86.92,
+        "location_x": 0.76,
+        "location_z": 0.47,
+        "est_width": 5.57,
+        "est_length": 5.32,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:53:05",
+        "status": "HAZARD",
+        "confidence": 85.2,
+        "location_x": 0.6,
+        "location_z": 0.81,
+        "est_width": 5.62,
+        "est_length": 5.34,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:53:06",
+        "status": "HAZARD",
+        "confidence": 88.03,
+        "location_x": 0.44,
+        "location_z": 0.13,
+        "est_width": 3.53,
+        "est_length": 4.24,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:53:07",
+        "status": "HAZARD",
+        "confidence": 85.68,
+        "location_x": 0.72,
+        "location_z": -0.33,
+        "est_width": 3.13,
+        "est_length": 4.32,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:53:08",
+        "status": "HAZARD",
+        "confidence": 90.58,
+        "location_x": 0.54,
+        "location_z": 0.28,
+        "est_width": 4.25,
+        "est_length": 4.25,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:53:09",
+        "status": "HAZARD",
+        "confidence": 76.89,
+        "location_x": 0.58,
+        "location_z": 0.02,
+        "est_width": 3.61,
+        "est_length": 4.12,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:53:10",
+        "status": "HAZARD",
+        "confidence": 78.1,
+        "location_x": 0.51,
+        "location_z": 0.53,
+        "est_width": 4.61,
+        "est_length": 4.23,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:53:11",
+        "status": "HAZARD",
+        "confidence": 92.67,
+        "location_x": 0.48,
+        "location_z": -0.11,
+        "est_width": 3.22,
+        "est_length": 4.18,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:53:12",
+        "status": "HAZARD",
+        "confidence": 91.93,
+        "location_x": 0.75,
+        "location_z": -0.1,
+        "est_width": 4.31,
+        "est_length": 4.32,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:53:13",
+        "status": "HAZARD",
+        "confidence": 89.36,
+        "location_x": 0.53,
+        "location_z": 0.04,
+        "est_width": 3.55,
+        "est_length": 4.28,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:53:14",
+        "status": "HAZARD",
+        "confidence": 87.06,
+        "location_x": 0.65,
+        "location_z": 0.48,
+        "est_width": 4.87,
+        "est_length": 4.21,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:53:15",
+        "status": "HAZARD",
+        "confidence": 83.37,
+        "location_x": 0.82,
+        "location_z": -0.46,
+        "est_width": 0.55,
+        "est_length": 0.63,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:53:16",
+        "status": "HAZARD",
+        "confidence": 89.69,
+        "location_x": 0.74,
+        "location_z": -0.26,
+        "est_width": 3.56,
+        "est_length": 4.15,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:53:17",
+        "status": "HAZARD",
+        "confidence": 84.95,
+        "location_x": 1.1,
+        "location_z": -0.13,
+        "est_width": 1.9,
+        "est_length": 4.1,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:53:18",
+        "status": "HAZARD",
+        "confidence": 90.66,
+        "location_x": 0.67,
+        "location_z": 0.46,
+        "est_width": 5.64,
+        "est_length": 5.35,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:53:19",
+        "status": "HAZARD",
+        "confidence": 90.56,
+        "location_x": 0.96,
+        "location_z": -0.23,
+        "est_width": 2.0,
+        "est_length": 3.31,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:53:20",
+        "status": "HAZARD",
+        "confidence": 91.13,
+        "location_x": 0.99,
+        "location_z": 0.41,
+        "est_width": 4.53,
+        "est_length": 4.12,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:53:21",
+        "status": "HAZARD",
+        "confidence": 88.25,
+        "location_x": 0.48,
+        "location_z": -0.16,
+        "est_width": 3.16,
+        "est_length": 4.15,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:53:22",
+        "status": "HAZARD",
+        "confidence": 91.26,
+        "location_x": 0.94,
+        "location_z": -0.26,
+        "est_width": 1.6,
+        "est_length": 2.74,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:53:23",
+        "status": "HAZARD",
+        "confidence": 87.48,
+        "location_x": 0.36,
+        "location_z": 0.11,
+        "est_width": 3.1,
+        "est_length": 4.37,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:53:24",
+        "status": "HAZARD",
+        "confidence": 88.24,
+        "location_x": 1.0,
+        "location_z": -0.16,
+        "est_width": 2.12,
+        "est_length": 4.11,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:53:25",
+        "status": "HAZARD",
+        "confidence": 83.04,
+        "location_x": 0.65,
+        "location_z": 0.25,
+        "est_width": 4.73,
+        "est_length": 4.19,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:53:26",
+        "status": "HAZARD",
+        "confidence": 90.05,
+        "location_x": 0.62,
+        "location_z": -0.17,
+        "est_width": 2.98,
+        "est_length": 4.11,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:53:27",
+        "status": "HAZARD",
+        "confidence": 91.37,
+        "location_x": 0.99,
+        "location_z": 0.18,
+        "est_width": 5.61,
+        "est_length": 5.3,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:53:29",
+        "status": "HAZARD",
+        "confidence": 90.1,
+        "location_x": 1.14,
+        "location_z": 0.6,
+        "est_width": 5.61,
+        "est_length": 5.35,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:53:30",
+        "status": "HAZARD",
+        "confidence": 89.64,
+        "location_x": 1.05,
+        "location_z": 0.03,
+        "est_width": 2.67,
+        "est_length": 4.98,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:53:31",
+        "status": "HAZARD",
+        "confidence": 90.18,
+        "location_x": 1.08,
+        "location_z": -0.01,
+        "est_width": 3.16,
+        "est_length": 5.92,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:53:32",
+        "status": "HAZARD",
+        "confidence": 88.95,
+        "location_x": 0.1,
+        "location_z": 0.39,
+        "est_width": 3.23,
+        "est_length": 4.24,
+        "lidar_hits": 12
+    },
+    {
+        "timestamp": "2026-05-16 15:53:33",
+        "status": "HAZARD",
+        "confidence": 88.71,
+        "location_x": 0.75,
+        "location_z": 0.39,
+        "est_width": 4.74,
+        "est_length": 4.41,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:53:34",
+        "status": "HAZARD",
+        "confidence": 91.05,
+        "location_x": 0.36,
+        "location_z": 0.44,
+        "est_width": 4.83,
+        "est_length": 4.23,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:53:35",
+        "status": "HAZARD",
+        "confidence": 91.88,
+        "location_x": 0.11,
+        "location_z": 0.47,
+        "est_width": 3.14,
+        "est_length": 4.38,
+        "lidar_hits": 13
+    },
+    {
+        "timestamp": "2026-05-16 15:53:36",
+        "status": "HAZARD",
+        "confidence": 90.13,
+        "location_x": 1.16,
+        "location_z": 0.18,
+        "est_width": 2.87,
+        "est_length": 5.29,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:53:37",
+        "status": "HAZARD",
+        "confidence": 90.09,
+        "location_x": 0.92,
+        "location_z": -0.03,
+        "est_width": 5.58,
+        "est_length": 5.4,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:53:38",
+        "status": "HAZARD",
+        "confidence": 90.41,
+        "location_x": 0.68,
+        "location_z": -0.04,
+        "est_width": 4.57,
+        "est_length": 4.5,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:53:39",
+        "status": "HAZARD",
+        "confidence": 83.72,
+        "location_x": 0.85,
+        "location_z": -0.08,
+        "est_width": 5.62,
+        "est_length": 5.38,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:53:40",
+        "status": "HAZARD",
+        "confidence": 90.76,
+        "location_x": 0.64,
+        "location_z": 0.11,
+        "est_width": 5.59,
+        "est_length": 5.14,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:53:41",
+        "status": "HAZARD",
+        "confidence": 81.87,
+        "location_x": 0.85,
+        "location_z": -0.02,
+        "est_width": 5.58,
+        "est_length": 5.37,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:53:42",
+        "status": "HAZARD",
+        "confidence": 90.14,
+        "location_x": 0.58,
+        "location_z": -0.11,
+        "est_width": 4.17,
+        "est_length": 4.25,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:53:43",
+        "status": "HAZARD",
+        "confidence": 88.41,
+        "location_x": 0.8,
+        "location_z": 0.82,
+        "est_width": 5.34,
+        "est_length": 4.99,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:53:44",
+        "status": "HAZARD",
+        "confidence": 91.73,
+        "location_x": 0.29,
+        "location_z": 0.2,
+        "est_width": 3.2,
+        "est_length": 4.46,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:53:45",
+        "status": "HAZARD",
+        "confidence": 91.07,
+        "location_x": 0.37,
+        "location_z": 0.09,
+        "est_width": 3.16,
+        "est_length": 4.5,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:53:46",
+        "status": "HAZARD",
+        "confidence": 89.6,
+        "location_x": 1.03,
+        "location_z": -0.14,
+        "est_width": 2.93,
+        "est_length": 5.34,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:53:47",
+        "status": "HAZARD",
+        "confidence": 88.47,
+        "location_x": 0.78,
+        "location_z": -0.12,
+        "est_width": 4.55,
+        "est_length": 4.24,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:53:48",
+        "status": "HAZARD",
+        "confidence": 91.51,
+        "location_x": 0.85,
+        "location_z": -0.07,
+        "est_width": 5.19,
+        "est_length": 4.92,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:53:49",
+        "status": "HAZARD",
+        "confidence": 91.87,
+        "location_x": 0.62,
+        "location_z": 0.12,
+        "est_width": 4.78,
+        "est_length": 4.24,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:53:50",
+        "status": "HAZARD",
+        "confidence": 87.64,
+        "location_x": 0.79,
+        "location_z": -0.01,
+        "est_width": 4.66,
+        "est_length": 4.19,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:53:51",
+        "status": "HAZARD",
+        "confidence": 88.44,
+        "location_x": 0.75,
+        "location_z": -0.25,
+        "est_width": 4.34,
+        "est_length": 4.21,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:53:52",
+        "status": "HAZARD",
+        "confidence": 89.51,
+        "location_x": 0.88,
+        "location_z": -0.32,
+        "est_width": 1.74,
+        "est_length": 3.11,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:53:53",
+        "status": "HAZARD",
+        "confidence": 91.06,
+        "location_x": 0.53,
+        "location_z": -0.04,
+        "est_width": 3.24,
+        "est_length": 4.32,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:53:54",
+        "status": "HAZARD",
+        "confidence": 88.5,
+        "location_x": 0.47,
+        "location_z": -0.09,
+        "est_width": 3.13,
+        "est_length": 4.3,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:53:55",
+        "status": "HAZARD",
+        "confidence": 91.12,
+        "location_x": 0.94,
+        "location_z": 0.24,
+        "est_width": 5.53,
+        "est_length": 5.27,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:53:56",
+        "status": "HAZARD",
+        "confidence": 92.32,
+        "location_x": 0.44,
+        "location_z": -0.04,
+        "est_width": 3.2,
+        "est_length": 4.12,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:53:57",
+        "status": "HAZARD",
+        "confidence": 92.11,
+        "location_x": 0.79,
+        "location_z": -0.12,
+        "est_width": 5.32,
+        "est_length": 5.05,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:53:58",
+        "status": "HAZARD",
+        "confidence": 90.74,
+        "location_x": 0.74,
+        "location_z": 0.46,
+        "est_width": 5.57,
+        "est_length": 5.42,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:53:59",
+        "status": "HAZARD",
+        "confidence": 91.7,
+        "location_x": 0.4,
+        "location_z": 0.44,
+        "est_width": 5.56,
+        "est_length": 5.38,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:54:00",
+        "status": "HAZARD",
+        "confidence": 87.78,
+        "location_x": 0.95,
+        "location_z": -0.29,
+        "est_width": 1.49,
+        "est_length": 2.67,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:54:01",
+        "status": "HAZARD",
+        "confidence": 91.8,
+        "location_x": 0.79,
+        "location_z": 0.1,
+        "est_width": 5.61,
+        "est_length": 5.36,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:54:02",
+        "status": "HAZARD",
+        "confidence": 87.75,
+        "location_x": 0.9,
+        "location_z": 0.18,
+        "est_width": 5.36,
+        "est_length": 4.98,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:54:03",
+        "status": "HAZARD",
+        "confidence": 89.06,
+        "location_x": 0.68,
+        "location_z": -0.1,
+        "est_width": 4.28,
+        "est_length": 4.19,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:54:04",
+        "status": "HAZARD",
+        "confidence": 81.89,
+        "location_x": 0.83,
+        "location_z": -0.46,
+        "est_width": 0.48,
+        "est_length": 0.57,
+        "lidar_hits": 10
+    },
+    {
+        "timestamp": "2026-05-16 15:54:05",
+        "status": "HAZARD",
+        "confidence": 92.47,
+        "location_x": 0.88,
+        "location_z": 0.07,
+        "est_width": 5.32,
+        "est_length": 5.09,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:54:06",
+        "status": "HAZARD",
+        "confidence": 89.45,
+        "location_x": 0.89,
+        "location_z": -0.31,
+        "est_width": 2.96,
+        "est_length": 5.38,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:54:07",
+        "status": "HAZARD",
+        "confidence": 78.98,
+        "location_x": 0.44,
+        "location_z": 1.19,
+        "est_width": 5.33,
+        "est_length": 4.95,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:54:08",
+        "status": "HAZARD",
+        "confidence": 87.09,
+        "location_x": 0.77,
+        "location_z": -0.11,
+        "est_width": 5.29,
+        "est_length": 5.0,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:54:09",
+        "status": "HAZARD",
+        "confidence": 89.34,
+        "location_x": 0.93,
+        "location_z": -0.25,
+        "est_width": 2.14,
+        "est_length": 4.06,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:54:10",
+        "status": "HAZARD",
+        "confidence": 88.17,
+        "location_x": 0.76,
+        "location_z": -0.07,
+        "est_width": 4.21,
+        "est_length": 4.22,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:54:11",
+        "status": "HAZARD",
+        "confidence": 86.38,
+        "location_x": 0.79,
+        "location_z": 0.27,
+        "est_width": 5.5,
+        "est_length": 5.26,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:54:12",
+        "status": "HAZARD",
+        "confidence": 89.14,
+        "location_x": 0.81,
+        "location_z": 0.53,
+        "est_width": 5.65,
+        "est_length": 5.42,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:54:13",
+        "status": "HAZARD",
+        "confidence": 82.63,
+        "location_x": 0.9,
+        "location_z": 0.17,
+        "est_width": 4.75,
+        "est_length": 4.22,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:54:14",
+        "status": "HAZARD",
+        "confidence": 91.27,
+        "location_x": 0.84,
+        "location_z": 0.27,
+        "est_width": 5.6,
+        "est_length": 5.39,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:54:16",
+        "status": "HAZARD",
+        "confidence": 89.33,
+        "location_x": 0.39,
+        "location_z": 0.64,
+        "est_width": 5.41,
+        "est_length": 5.09,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:54:17",
+        "status": "HAZARD",
+        "confidence": 91.18,
+        "location_x": 0.7,
+        "location_z": -0.3,
+        "est_width": 3.13,
+        "est_length": 4.24,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:54:18",
+        "status": "HAZARD",
+        "confidence": 91.04,
+        "location_x": 0.42,
+        "location_z": -0.0,
+        "est_width": 3.13,
+        "est_length": 4.38,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:54:19",
+        "status": "HAZARD",
+        "confidence": 91.87,
+        "location_x": 0.38,
+        "location_z": 0.49,
+        "est_width": 5.56,
+        "est_length": 5.33,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:54:20",
+        "status": "HAZARD",
+        "confidence": 87.49,
+        "location_x": 0.71,
+        "location_z": -0.07,
+        "est_width": 5.42,
+        "est_length": 5.11,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:54:21",
+        "status": "HAZARD",
+        "confidence": 92.48,
+        "location_x": 0.4,
+        "location_z": 0.04,
+        "est_width": 3.23,
+        "est_length": 4.31,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:54:22",
+        "status": "HAZARD",
+        "confidence": 88.04,
+        "location_x": 1.26,
+        "location_z": 0.2,
+        "est_width": 2.89,
+        "est_length": 5.36,
+        "lidar_hits": 11
+    },
+    {
+        "timestamp": "2026-05-16 15:54:23",
+        "status": "HAZARD",
+        "confidence": 90.65,
+        "location_x": 0.68,
+        "location_z": -0.16,
+        "est_width": 3.51,
+        "est_length": 4.48,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:54:24",
+        "status": "HAZARD",
+        "confidence": 90.79,
+        "location_x": 0.85,
+        "location_z": -0.41,
+        "est_width": 0.85,
+        "est_length": 2.27,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:54:25",
+        "status": "HAZARD",
+        "confidence": 91.24,
+        "location_x": 0.66,
+        "location_z": -0.3,
+        "est_width": 3.11,
+        "est_length": 3.73,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:54:26",
+        "status": "HAZARD",
+        "confidence": 89.81,
+        "location_x": 0.61,
+        "location_z": -0.21,
+        "est_width": 3.26,
+        "est_length": 4.16,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:54:27",
+        "status": "HAZARD",
+        "confidence": 92.36,
+        "location_x": 0.68,
+        "location_z": 0.23,
+        "est_width": 4.23,
+        "est_length": 4.09,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:54:28",
+        "status": "HAZARD",
+        "confidence": 88.98,
+        "location_x": 0.92,
+        "location_z": -0.38,
+        "est_width": 0.8,
+        "est_length": 2.24,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:54:29",
+        "status": "HAZARD",
+        "confidence": 90.53,
+        "location_x": 0.69,
+        "location_z": -0.14,
+        "est_width": 3.55,
+        "est_length": 4.14,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:54:30",
+        "status": "HAZARD",
+        "confidence": 91.98,
+        "location_x": 0.07,
+        "location_z": 0.53,
+        "est_width": 3.61,
+        "est_length": 4.22,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:54:31",
+        "status": "HAZARD",
+        "confidence": 87.72,
+        "location_x": 0.39,
+        "location_z": 0.04,
+        "est_width": 3.19,
+        "est_length": 4.26,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:54:32",
+        "status": "HAZARD",
+        "confidence": 89.83,
+        "location_x": 0.34,
+        "location_z": 0.05,
+        "est_width": 3.25,
+        "est_length": 4.24,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:54:33",
+        "status": "HAZARD",
+        "confidence": 79.53,
+        "location_x": 0.87,
+        "location_z": -0.48,
+        "est_width": 0.5,
+        "est_length": 0.49,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:54:34",
+        "status": "HAZARD",
+        "confidence": 88.84,
+        "location_x": 0.89,
+        "location_z": -0.17,
+        "est_width": 0.93,
+        "est_length": 2.03,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:54:35",
+        "status": "HAZARD",
+        "confidence": 87.27,
+        "location_x": 0.76,
+        "location_z": -0.06,
+        "est_width": 3.66,
+        "est_length": 4.08,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:54:36",
+        "status": "HAZARD",
+        "confidence": 90.92,
+        "location_x": 0.66,
+        "location_z": -0.06,
+        "est_width": 5.56,
+        "est_length": 5.41,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:54:37",
+        "status": "HAZARD",
+        "confidence": 89.27,
+        "location_x": 0.69,
+        "location_z": -0.35,
+        "est_width": 3.13,
+        "est_length": 4.19,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:54:38",
+        "status": "HAZARD",
+        "confidence": 92.89,
+        "location_x": 0.52,
+        "location_z": 0.11,
+        "est_width": 4.21,
+        "est_length": 4.38,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:54:39",
+        "status": "HAZARD",
+        "confidence": 91.29,
+        "location_x": 0.76,
+        "location_z": 0.31,
+        "est_width": 5.39,
+        "est_length": 5.06,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:54:40",
+        "status": "HAZARD",
+        "confidence": 90.14,
+        "location_x": 0.72,
+        "location_z": 0.15,
+        "est_width": 5.51,
+        "est_length": 5.3,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:54:41",
+        "status": "HAZARD",
+        "confidence": 86.01,
+        "location_x": 0.58,
+        "location_z": 0.22,
+        "est_width": 5.58,
+        "est_length": 5.34,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:54:42",
+        "status": "HAZARD",
+        "confidence": 91.27,
+        "location_x": 1.05,
+        "location_z": 0.33,
+        "est_width": 5.6,
+        "est_length": 5.4,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:54:43",
+        "status": "HAZARD",
+        "confidence": 91.13,
+        "location_x": 0.8,
+        "location_z": -0.52,
+        "est_width": 0.46,
+        "est_length": 0.5,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:54:44",
+        "status": "HAZARD",
+        "confidence": 89.78,
+        "location_x": 0.61,
+        "location_z": 0.21,
+        "est_width": 5.53,
+        "est_length": 5.27,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:54:45",
+        "status": "HAZARD",
+        "confidence": 81.69,
+        "location_x": 0.85,
+        "location_z": -0.01,
+        "est_width": 5.49,
+        "est_length": 5.2,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:54:46",
+        "status": "HAZARD",
+        "confidence": 90.25,
+        "location_x": 0.28,
+        "location_z": 0.68,
+        "est_width": 5.59,
+        "est_length": 5.2,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:54:47",
+        "status": "HAZARD",
+        "confidence": 86.19,
+        "location_x": 0.73,
+        "location_z": 0.37,
+        "est_width": 4.92,
+        "est_length": 4.39,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:54:48",
+        "status": "HAZARD",
+        "confidence": 84.9,
+        "location_x": 0.82,
+        "location_z": 0.5,
+        "est_width": 5.6,
+        "est_length": 5.3,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:54:49",
+        "status": "HAZARD",
+        "confidence": 90.23,
+        "location_x": 0.85,
+        "location_z": -0.61,
+        "est_width": 0.48,
+        "est_length": 0.52,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:54:50",
+        "status": "HAZARD",
+        "confidence": 84.05,
+        "location_x": 0.98,
+        "location_z": 0.5,
+        "est_width": 5.53,
+        "est_length": 5.4,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:54:51",
+        "status": "HAZARD",
+        "confidence": 85.9,
+        "location_x": 0.54,
+        "location_z": 0.09,
+        "est_width": 3.51,
+        "est_length": 4.36,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:54:52",
+        "status": "HAZARD",
+        "confidence": 91.5,
+        "location_x": 0.83,
+        "location_z": 0.16,
+        "est_width": 4.77,
+        "est_length": 4.28,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:54:53",
+        "status": "HAZARD",
+        "confidence": 91.18,
+        "location_x": 0.71,
+        "location_z": 0.15,
+        "est_width": 5.59,
+        "est_length": 5.41,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:54:54",
+        "status": "HAZARD",
+        "confidence": 91.14,
+        "location_x": 0.43,
+        "location_z": 0.2,
+        "est_width": 4.22,
+        "est_length": 4.17,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:54:55",
+        "status": "HAZARD",
+        "confidence": 90.24,
+        "location_x": 0.55,
+        "location_z": -0.24,
+        "est_width": 3.11,
+        "est_length": 4.3,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:54:57",
+        "status": "HAZARD",
+        "confidence": 85.96,
+        "location_x": 0.68,
+        "location_z": 0.33,
+        "est_width": 4.77,
+        "est_length": 4.21,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:54:58",
+        "status": "HAZARD",
+        "confidence": 89.95,
+        "location_x": 0.69,
+        "location_z": -0.02,
+        "est_width": 4.73,
+        "est_length": 4.37,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:54:59",
+        "status": "HAZARD",
+        "confidence": 90.41,
+        "location_x": 0.95,
+        "location_z": -0.25,
+        "est_width": 1.52,
+        "est_length": 2.66,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:55:00",
+        "status": "HAZARD",
+        "confidence": 84.48,
+        "location_x": 0.72,
+        "location_z": 0.25,
+        "est_width": 5.31,
+        "est_length": 4.9,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:55:01",
+        "status": "HAZARD",
+        "confidence": 91.02,
+        "location_x": 0.89,
+        "location_z": -0.02,
+        "est_width": 5.48,
+        "est_length": 5.32,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:55:02",
+        "status": "HAZARD",
+        "confidence": 87.73,
+        "location_x": 0.97,
+        "location_z": -0.22,
+        "est_width": 2.08,
+        "est_length": 4.08,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:55:03",
+        "status": "HAZARD",
+        "confidence": 89.57,
+        "location_x": 0.1,
+        "location_z": 0.51,
+        "est_width": 3.23,
+        "est_length": 4.48,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:04",
+        "status": "HAZARD",
+        "confidence": 86.73,
+        "location_x": 0.52,
+        "location_z": 0.36,
+        "est_width": 4.35,
+        "est_length": 4.04,
+        "lidar_hits": 13
+    },
+    {
+        "timestamp": "2026-05-16 15:55:05",
+        "status": "HAZARD",
+        "confidence": 91.1,
+        "location_x": 0.8,
+        "location_z": -0.54,
+        "est_width": 0.53,
+        "est_length": 0.34,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:55:06",
+        "status": "HAZARD",
+        "confidence": 92.38,
+        "location_x": 0.54,
+        "location_z": -0.08,
+        "est_width": 3.17,
+        "est_length": 4.2,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:07",
+        "status": "HAZARD",
+        "confidence": 89.06,
+        "location_x": 0.8,
+        "location_z": -0.3,
+        "est_width": 4.18,
+        "est_length": 4.51,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:55:08",
+        "status": "HAZARD",
+        "confidence": 88.38,
+        "location_x": 0.65,
+        "location_z": 0.22,
+        "est_width": 4.32,
+        "est_length": 4.4,
+        "lidar_hits": 11
+    },
+    {
+        "timestamp": "2026-05-16 15:55:09",
+        "status": "HAZARD",
+        "confidence": 87.92,
+        "location_x": 0.31,
+        "location_z": 0.16,
+        "est_width": 3.15,
+        "est_length": 4.16,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:55:10",
+        "status": "HAZARD",
+        "confidence": 92.2,
+        "location_x": 0.84,
+        "location_z": -0.12,
+        "est_width": 5.24,
+        "est_length": 5.01,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:55:11",
+        "status": "HAZARD",
+        "confidence": 92.78,
+        "location_x": 0.54,
+        "location_z": 0.02,
+        "est_width": 3.53,
+        "est_length": 4.45,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:12",
+        "status": "HAZARD",
+        "confidence": 93.13,
+        "location_x": 1.16,
+        "location_z": 0.34,
+        "est_width": 2.91,
+        "est_length": 5.22,
+        "lidar_hits": 10
+    },
+    {
+        "timestamp": "2026-05-16 15:55:13",
+        "status": "HAZARD",
+        "confidence": 86.04,
+        "location_x": 0.84,
+        "location_z": 0.56,
+        "est_width": 5.51,
+        "est_length": 5.31,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:55:14",
+        "status": "HAZARD",
+        "confidence": 89.84,
+        "location_x": 1.04,
+        "location_z": -0.14,
+        "est_width": 2.88,
+        "est_length": 5.38,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:15",
+        "status": "HAZARD",
+        "confidence": 72.92,
+        "location_x": 0.67,
+        "location_z": -0.23,
+        "est_width": 3.07,
+        "est_length": 4.23,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:55:16",
+        "status": "HAZARD",
+        "confidence": 92.0,
+        "location_x": 0.56,
+        "location_z": -0.18,
+        "est_width": 3.04,
+        "est_length": 4.3,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:55:17",
+        "status": "HAZARD",
+        "confidence": 92.1,
+        "location_x": 0.87,
+        "location_z": 0.14,
+        "est_width": 5.28,
+        "est_length": 4.96,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:55:18",
+        "status": "HAZARD",
+        "confidence": 86.6,
+        "location_x": 0.37,
+        "location_z": 0.58,
+        "est_width": 4.88,
+        "est_length": 4.43,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:55:19",
+        "status": "HAZARD",
+        "confidence": 90.18,
+        "location_x": 0.72,
+        "location_z": -0.1,
+        "est_width": 4.66,
+        "est_length": 4.15,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:55:20",
+        "status": "HAZARD",
+        "confidence": 90.51,
+        "location_x": 0.67,
+        "location_z": -0.01,
+        "est_width": 5.52,
+        "est_length": 5.3,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:55:21",
+        "status": "HAZARD",
+        "confidence": 89.03,
+        "location_x": 0.73,
+        "location_z": -0.03,
+        "est_width": 4.77,
+        "est_length": 4.09,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:55:22",
+        "status": "HAZARD",
+        "confidence": 90.25,
+        "location_x": 0.54,
+        "location_z": 0.1,
+        "est_width": 3.61,
+        "est_length": 4.48,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:55:23",
+        "status": "HAZARD",
+        "confidence": 89.24,
+        "location_x": 0.54,
+        "location_z": 0.03,
+        "est_width": 3.56,
+        "est_length": 4.3,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:55:24",
+        "status": "HAZARD",
+        "confidence": 88.17,
+        "location_x": 1.02,
+        "location_z": 0.41,
+        "est_width": 5.56,
+        "est_length": 5.36,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:55:25",
+        "status": "HAZARD",
+        "confidence": 86.7,
+        "location_x": 0.78,
+        "location_z": -0.17,
+        "est_width": 4.05,
+        "est_length": 4.41,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:55:26",
+        "status": "HAZARD",
+        "confidence": 87.99,
+        "location_x": 0.9,
+        "location_z": 0.05,
+        "est_width": 5.26,
+        "est_length": 4.92,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:27",
+        "status": "HAZARD",
+        "confidence": 87.72,
+        "location_x": 0.8,
+        "location_z": -0.53,
+        "est_width": 0.49,
+        "est_length": 0.49,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:55:28",
+        "status": "HAZARD",
+        "confidence": 88.04,
+        "location_x": 0.6,
+        "location_z": -0.04,
+        "est_width": 4.76,
+        "est_length": 4.42,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:55:29",
+        "status": "HAZARD",
+        "confidence": 91.39,
+        "location_x": 0.55,
+        "location_z": -0.15,
+        "est_width": 3.14,
+        "est_length": 4.19,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:30",
+        "status": "HAZARD",
+        "confidence": 87.7,
+        "location_x": 1.14,
+        "location_z": 0.12,
+        "est_width": 2.76,
+        "est_length": 5.29,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:31",
+        "status": "HAZARD",
+        "confidence": 88.53,
+        "location_x": 0.57,
+        "location_z": -0.03,
+        "est_width": 3.57,
+        "est_length": 4.28,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:55:32",
+        "status": "HAZARD",
+        "confidence": 89.02,
+        "location_x": 0.8,
+        "location_z": -0.13,
+        "est_width": 3.59,
+        "est_length": 3.79,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:33",
+        "status": "HAZARD",
+        "confidence": 89.86,
+        "location_x": 0.68,
+        "location_z": -0.33,
+        "est_width": 3.15,
+        "est_length": 3.83,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:55:34",
+        "status": "HAZARD",
+        "confidence": 86.62,
+        "location_x": 0.71,
+        "location_z": -0.25,
+        "est_width": 3.57,
+        "est_length": 4.21,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:35",
+        "status": "HAZARD",
+        "confidence": 87.17,
+        "location_x": 0.89,
+        "location_z": -0.04,
+        "est_width": 4.64,
+        "est_length": 4.17,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:55:36",
+        "status": "HAZARD",
+        "confidence": 91.54,
+        "location_x": 1.16,
+        "location_z": 0.16,
+        "est_width": 2.9,
+        "est_length": 5.22,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:55:37",
+        "status": "HAZARD",
+        "confidence": 92.57,
+        "location_x": 0.64,
+        "location_z": -0.3,
+        "est_width": 3.15,
+        "est_length": 4.29,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:38",
+        "status": "HAZARD",
+        "confidence": 89.09,
+        "location_x": 0.7,
+        "location_z": 0.17,
+        "est_width": 4.81,
+        "est_length": 4.2,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:39",
+        "status": "HAZARD",
+        "confidence": 92.06,
+        "location_x": 0.64,
+        "location_z": 0.32,
+        "est_width": 4.85,
+        "est_length": 4.07,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:40",
+        "status": "HAZARD",
+        "confidence": 92.85,
+        "location_x": 0.52,
+        "location_z": -0.16,
+        "est_width": 3.29,
+        "est_length": 4.22,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:41",
+        "status": "HAZARD",
+        "confidence": 90.31,
+        "location_x": 0.66,
+        "location_z": 0.04,
+        "est_width": 4.81,
+        "est_length": 4.24,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:42",
+        "status": "HAZARD",
+        "confidence": 89.66,
+        "location_x": 0.64,
+        "location_z": 0.07,
+        "est_width": 5.61,
+        "est_length": 5.23,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:43",
+        "status": "HAZARD",
+        "confidence": 91.07,
+        "location_x": 0.59,
+        "location_z": 0.28,
+        "est_width": 5.32,
+        "est_length": 5.02,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:55:44",
+        "status": "HAZARD",
+        "confidence": 90.97,
+        "location_x": 0.6,
+        "location_z": 0.16,
+        "est_width": 4.8,
+        "est_length": 4.15,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:55:46",
+        "status": "HAZARD",
+        "confidence": 86.61,
+        "location_x": 0.81,
+        "location_z": 0.43,
+        "est_width": 5.33,
+        "est_length": 4.94,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:55:47",
+        "status": "HAZARD",
+        "confidence": 91.88,
+        "location_x": 0.78,
+        "location_z": -0.07,
+        "est_width": 4.48,
+        "est_length": 4.3,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:55:48",
+        "status": "HAZARD",
+        "confidence": 84.97,
+        "location_x": 0.76,
+        "location_z": -0.14,
+        "est_width": 4.23,
+        "est_length": 4.26,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:55:49",
+        "status": "HAZARD",
+        "confidence": 85.3,
+        "location_x": 0.58,
+        "location_z": -0.11,
+        "est_width": 3.18,
+        "est_length": 4.26,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:55:50",
+        "status": "HAZARD",
+        "confidence": 92.42,
+        "location_x": 0.32,
+        "location_z": 0.17,
+        "est_width": 3.21,
+        "est_length": 4.22,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:55:51",
+        "status": "HAZARD",
+        "confidence": 88.22,
+        "location_x": 0.84,
+        "location_z": 0.25,
+        "est_width": 5.38,
+        "est_length": 4.98,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:55:52",
+        "status": "HAZARD",
+        "confidence": 90.08,
+        "location_x": 0.36,
+        "location_z": 0.28,
+        "est_width": 3.49,
+        "est_length": 4.2,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:55:53",
+        "status": "HAZARD",
+        "confidence": 93.16,
+        "location_x": 0.32,
+        "location_z": 0.24,
+        "est_width": 3.56,
+        "est_length": 4.28,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:55:54",
+        "status": "HAZARD",
+        "confidence": 93.73,
+        "location_x": 0.9,
+        "location_z": -0.28,
+        "est_width": 1.64,
+        "est_length": 2.78,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:55:55",
+        "status": "HAZARD",
+        "confidence": 90.65,
+        "location_x": 0.45,
+        "location_z": 0.14,
+        "est_width": 3.64,
+        "est_length": 4.25,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:55:56",
+        "status": "HAZARD",
+        "confidence": 87.72,
+        "location_x": 0.72,
+        "location_z": -0.34,
+        "est_width": 3.12,
+        "est_length": 4.19,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:55:57",
+        "status": "HAZARD",
+        "confidence": 91.53,
+        "location_x": 0.56,
+        "location_z": -0.25,
+        "est_width": 3.14,
+        "est_length": 4.25,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:55:58",
+        "status": "HAZARD",
+        "confidence": 92.17,
+        "location_x": 0.81,
+        "location_z": 0.58,
+        "est_width": 5.6,
+        "est_length": 5.36,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:55:59",
+        "status": "HAZARD",
+        "confidence": 93.93,
+        "location_x": 0.43,
+        "location_z": 0.55,
+        "est_width": 5.5,
+        "est_length": 5.26,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:56:00",
+        "status": "HAZARD",
+        "confidence": 92.25,
+        "location_x": 0.99,
+        "location_z": -0.27,
+        "est_width": 1.48,
+        "est_length": 2.72,
+        "lidar_hits": 12
+    },
+    {
+        "timestamp": "2026-05-16 15:56:01",
+        "status": "HAZARD",
+        "confidence": 87.59,
+        "location_x": 0.47,
+        "location_z": 0.28,
+        "est_width": 3.55,
+        "est_length": 4.21,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:56:02",
+        "status": "HAZARD",
+        "confidence": 83.33,
+        "location_x": 0.74,
+        "location_z": 0.15,
+        "est_width": 5.61,
+        "est_length": 5.39,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:03",
+        "status": "HAZARD",
+        "confidence": 90.66,
+        "location_x": 0.62,
+        "location_z": -0.01,
+        "est_width": 3.48,
+        "est_length": 4.13,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:56:04",
+        "status": "HAZARD",
+        "confidence": 79.03,
+        "location_x": 1.02,
+        "location_z": 0.26,
+        "est_width": 5.54,
+        "est_length": 5.32,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:05",
+        "status": "HAZARD",
+        "confidence": 93.12,
+        "location_x": 0.58,
+        "location_z": 0.34,
+        "est_width": 5.64,
+        "est_length": 5.33,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:56:06",
+        "status": "HAZARD",
+        "confidence": 87.12,
+        "location_x": 0.78,
+        "location_z": -0.03,
+        "est_width": 4.15,
+        "est_length": 4.05,
+        "lidar_hits": 13
+    },
+    {
+        "timestamp": "2026-05-16 15:56:07",
+        "status": "HAZARD",
+        "confidence": 86.21,
+        "location_x": 0.5,
+        "location_z": 0.18,
+        "est_width": 5.51,
+        "est_length": 5.31,
+        "lidar_hits": 30
+    },
+    {
+        "timestamp": "2026-05-16 15:56:08",
+        "status": "HAZARD",
+        "confidence": 93.36,
+        "location_x": -0.1,
+        "location_z": 0.9,
+        "est_width": 3.63,
+        "est_length": 4.38,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:56:09",
+        "status": "HAZARD",
+        "confidence": 89.39,
+        "location_x": 0.83,
+        "location_z": 0.28,
+        "est_width": 5.55,
+        "est_length": 5.37,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:56:10",
+        "status": "HAZARD",
+        "confidence": 84.91,
+        "location_x": 0.72,
+        "location_z": -0.32,
+        "est_width": 3.18,
+        "est_length": 4.24,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:56:11",
+        "status": "HAZARD",
+        "confidence": 90.34,
+        "location_x": 0.89,
+        "location_z": -0.4,
+        "est_width": 1.93,
+        "est_length": 3.54,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:56:12",
+        "status": "HAZARD",
+        "confidence": 88.91,
+        "location_x": 0.74,
+        "location_z": -0.1,
+        "est_width": 4.19,
+        "est_length": 4.44,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:13",
+        "status": "HAZARD",
+        "confidence": 87.52,
+        "location_x": 0.31,
+        "location_z": 0.2,
+        "est_width": 3.18,
+        "est_length": 4.23,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:56:14",
+        "status": "HAZARD",
+        "confidence": 88.76,
+        "location_x": 0.98,
+        "location_z": -0.14,
+        "est_width": 2.99,
+        "est_length": 5.28,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:56:15",
+        "status": "HAZARD",
+        "confidence": 91.68,
+        "location_x": 0.86,
+        "location_z": 0.26,
+        "est_width": 5.31,
+        "est_length": 5.07,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:56:16",
+        "status": "HAZARD",
+        "confidence": 89.99,
+        "location_x": 0.75,
+        "location_z": 0.0,
+        "est_width": 4.76,
+        "est_length": 4.26,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:56:17",
+        "status": "HAZARD",
+        "confidence": 88.43,
+        "location_x": 0.76,
+        "location_z": 0.22,
+        "est_width": 4.73,
+        "est_length": 4.46,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:56:18",
+        "status": "HAZARD",
+        "confidence": 90.68,
+        "location_x": 0.67,
+        "location_z": 0.09,
+        "est_width": 5.27,
+        "est_length": 4.98,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:56:19",
+        "status": "HAZARD",
+        "confidence": 91.67,
+        "location_x": 0.33,
+        "location_z": 0.17,
+        "est_width": 3.69,
+        "est_length": 4.42,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:56:20",
+        "status": "HAZARD",
+        "confidence": 84.53,
+        "location_x": 0.99,
+        "location_z": 0.77,
+        "est_width": 5.31,
+        "est_length": 4.93,
+        "lidar_hits": 10
+    },
+    {
+        "timestamp": "2026-05-16 15:56:21",
+        "status": "HAZARD",
+        "confidence": 92.01,
+        "location_x": 0.79,
+        "location_z": 0.41,
+        "est_width": 5.55,
+        "est_length": 5.39,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:22",
+        "status": "HAZARD",
+        "confidence": 92.04,
+        "location_x": 1.01,
+        "location_z": -0.29,
+        "est_width": 1.53,
+        "est_length": 2.81,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:56:23",
+        "status": "HAZARD",
+        "confidence": 85.85,
+        "location_x": 0.68,
+        "location_z": -0.14,
+        "est_width": 3.54,
+        "est_length": 4.16,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:56:24",
+        "status": "HAZARD",
+        "confidence": 88.01,
+        "location_x": 0.44,
+        "location_z": 0.24,
+        "est_width": 3.53,
+        "est_length": 4.3,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:56:25",
+        "status": "HAZARD",
+        "confidence": 87.3,
+        "location_x": 0.66,
+        "location_z": 0.1,
+        "est_width": 4.52,
+        "est_length": 4.25,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:26",
+        "status": "HAZARD",
+        "confidence": 91.83,
+        "location_x": 0.72,
+        "location_z": -0.24,
+        "est_width": 3.38,
+        "est_length": 4.23,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:56:27",
+        "status": "HAZARD",
+        "confidence": 89.45,
+        "location_x": 0.71,
+        "location_z": 0.26,
+        "est_width": 5.31,
+        "est_length": 5.07,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:56:28",
+        "status": "HAZARD",
+        "confidence": 87.82,
+        "location_x": 0.91,
+        "location_z": 0.17,
+        "est_width": 5.53,
+        "est_length": 5.22,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:29",
+        "status": "HAZARD",
+        "confidence": 84.55,
+        "location_x": 0.61,
+        "location_z": 0.41,
+        "est_width": 5.44,
+        "est_length": 5.02,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:56:30",
+        "status": "HAZARD",
+        "confidence": 89.74,
+        "location_x": 0.76,
+        "location_z": 0.07,
+        "est_width": 5.56,
+        "est_length": 5.3,
+        "lidar_hits": 18
+    },
+    {
+        "timestamp": "2026-05-16 15:56:31",
+        "status": "HAZARD",
+        "confidence": 91.9,
+        "location_x": 0.59,
+        "location_z": -0.1,
+        "est_width": 3.57,
+        "est_length": 4.13,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:56:32",
+        "status": "HAZARD",
+        "confidence": 91.37,
+        "location_x": 0.74,
+        "location_z": -0.12,
+        "est_width": 4.52,
+        "est_length": 3.75,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:56:33",
+        "status": "HAZARD",
+        "confidence": 86.95,
+        "location_x": 0.99,
+        "location_z": -0.21,
+        "est_width": 2.92,
+        "est_length": 5.39,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:56:34",
+        "status": "HAZARD",
+        "confidence": 86.12,
+        "location_x": 0.73,
+        "location_z": -0.2,
+        "est_width": 4.82,
+        "est_length": 4.17,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:56:35",
+        "status": "HAZARD",
+        "confidence": 83.49,
+        "location_x": 0.62,
+        "location_z": -0.25,
+        "est_width": 3.14,
+        "est_length": 4.27,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:56:36",
+        "status": "HAZARD",
+        "confidence": 86.23,
+        "location_x": 0.42,
+        "location_z": 0.1,
+        "est_width": 3.14,
+        "est_length": 4.43,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:56:37",
+        "status": "HAZARD",
+        "confidence": 90.6,
+        "location_x": 0.69,
+        "location_z": 0.16,
+        "est_width": 5.64,
+        "est_length": 5.39,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:56:38",
+        "status": "HAZARD",
+        "confidence": 89.25,
+        "location_x": 0.76,
+        "location_z": -0.19,
+        "est_width": 4.72,
+        "est_length": 4.16,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:56:40",
+        "status": "HAZARD",
+        "confidence": 90.32,
+        "location_x": 0.14,
+        "location_z": 0.37,
+        "est_width": 3.16,
+        "est_length": 4.49,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:56:41",
+        "status": "HAZARD",
+        "confidence": 86.48,
+        "location_x": 0.72,
+        "location_z": -0.2,
+        "est_width": 4.25,
+        "est_length": 4.18,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:42",
+        "status": "HAZARD",
+        "confidence": 92.66,
+        "location_x": 0.5,
+        "location_z": 0.19,
+        "est_width": 4.63,
+        "est_length": 4.46,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:43",
+        "status": "HAZARD",
+        "confidence": 91.21,
+        "location_x": 0.65,
+        "location_z": -0.33,
+        "est_width": 3.17,
+        "est_length": 4.31,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:56:44",
+        "status": "HAZARD",
+        "confidence": 86.47,
+        "location_x": 0.64,
+        "location_z": -0.03,
+        "est_width": 4.17,
+        "est_length": 4.18,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:56:45",
+        "status": "HAZARD",
+        "confidence": 92.59,
+        "location_x": 0.81,
+        "location_z": -0.08,
+        "est_width": 4.76,
+        "est_length": 4.16,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:56:46",
+        "status": "HAZARD",
+        "confidence": 91.57,
+        "location_x": 0.93,
+        "location_z": -0.21,
+        "est_width": 0.97,
+        "est_length": 2.1,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:56:47",
+        "status": "HAZARD",
+        "confidence": 90.04,
+        "location_x": 0.68,
+        "location_z": 0.22,
+        "est_width": 4.81,
+        "est_length": 4.38,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:56:48",
+        "status": "HAZARD",
+        "confidence": 89.13,
+        "location_x": 0.36,
+        "location_z": 0.39,
+        "est_width": 3.58,
+        "est_length": 4.14,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:56:49",
+        "status": "HAZARD",
+        "confidence": 86.07,
+        "location_x": 0.82,
+        "location_z": -0.02,
+        "est_width": 5.54,
+        "est_length": 5.41,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:56:50",
+        "status": "HAZARD",
+        "confidence": 89.19,
+        "location_x": 0.72,
+        "location_z": -0.13,
+        "est_width": 4.41,
+        "est_length": 4.22,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:56:51",
+        "status": "HAZARD",
+        "confidence": 86.83,
+        "location_x": 0.58,
+        "location_z": -0.27,
+        "est_width": 3.08,
+        "est_length": 4.19,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:56:52",
+        "status": "HAZARD",
+        "confidence": 92.14,
+        "location_x": 0.64,
+        "location_z": -0.23,
+        "est_width": 3.13,
+        "est_length": 4.22,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:56:53",
+        "status": "HAZARD",
+        "confidence": 85.95,
+        "location_x": 0.4,
+        "location_z": 0.15,
+        "est_width": 3.65,
+        "est_length": 4.13,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:56:54",
+        "status": "HAZARD",
+        "confidence": 83.02,
+        "location_x": 1.0,
+        "location_z": -0.21,
+        "est_width": 1.89,
+        "est_length": 3.71,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:56:55",
+        "status": "HAZARD",
+        "confidence": 89.31,
+        "location_x": 0.74,
+        "location_z": -0.27,
+        "est_width": 3.43,
+        "est_length": 4.15,
+        "lidar_hits": 32
+    },
+    {
+        "timestamp": "2026-05-16 15:56:56",
+        "status": "HAZARD",
+        "confidence": 89.37,
+        "location_x": 0.24,
+        "location_z": 0.58,
+        "est_width": 5.62,
+        "est_length": 5.39,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:56:57",
+        "status": "HAZARD",
+        "confidence": 86.08,
+        "location_x": 0.56,
+        "location_z": 0.35,
+        "est_width": 4.21,
+        "est_length": 4.45,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:56:58",
+        "status": "HAZARD",
+        "confidence": 86.9,
+        "location_x": 0.54,
+        "location_z": -0.11,
+        "est_width": 3.19,
+        "est_length": 4.45,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:56:59",
+        "status": "HAZARD",
+        "confidence": 86.76,
+        "location_x": 0.88,
+        "location_z": -0.39,
+        "est_width": 0.99,
+        "est_length": 2.25,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:57:00",
+        "status": "HAZARD",
+        "confidence": 89.41,
+        "location_x": 0.57,
+        "location_z": 0.46,
+        "est_width": 5.59,
+        "est_length": 5.32,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:57:01",
+        "status": "HAZARD",
+        "confidence": 90.48,
+        "location_x": 0.75,
+        "location_z": -0.31,
+        "est_width": 4.17,
+        "est_length": 4.25,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:02",
+        "status": "HAZARD",
+        "confidence": 86.58,
+        "location_x": 0.62,
+        "location_z": -0.2,
+        "est_width": 3.16,
+        "est_length": 4.21,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:57:03",
+        "status": "HAZARD",
+        "confidence": 88.61,
+        "location_x": 0.71,
+        "location_z": -0.37,
+        "est_width": 3.13,
+        "est_length": 4.27,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:04",
+        "status": "HAZARD",
+        "confidence": 89.53,
+        "location_x": 0.68,
+        "location_z": 0.1,
+        "est_width": 5.67,
+        "est_length": 5.42,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:05",
+        "status": "HAZARD",
+        "confidence": 87.71,
+        "location_x": 0.43,
+        "location_z": 0.76,
+        "est_width": 5.37,
+        "est_length": 4.98,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:57:06",
+        "status": "HAZARD",
+        "confidence": 86.79,
+        "location_x": 0.39,
+        "location_z": 0.05,
+        "est_width": 3.49,
+        "est_length": 4.23,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:57:07",
+        "status": "HAZARD",
+        "confidence": 90.02,
+        "location_x": 1.28,
+        "location_z": 0.5,
+        "est_width": 2.98,
+        "est_length": 5.35,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:57:08",
+        "status": "HAZARD",
+        "confidence": 92.27,
+        "location_x": 0.94,
+        "location_z": -0.29,
+        "est_width": 1.74,
+        "est_length": 3.03,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:57:09",
+        "status": "HAZARD",
+        "confidence": 90.62,
+        "location_x": 0.78,
+        "location_z": -0.15,
+        "est_width": 4.49,
+        "est_length": 4.19,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:57:10",
+        "status": "HAZARD",
+        "confidence": 89.81,
+        "location_x": 0.66,
+        "location_z": 0.37,
+        "est_width": 5.59,
+        "est_length": 5.35,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:57:11",
+        "status": "HAZARD",
+        "confidence": 90.68,
+        "location_x": 0.64,
+        "location_z": -0.3,
+        "est_width": 3.17,
+        "est_length": 4.18,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:57:12",
+        "status": "HAZARD",
+        "confidence": 89.08,
+        "location_x": 0.93,
+        "location_z": 0.03,
+        "est_width": 5.21,
+        "est_length": 4.95,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:57:13",
+        "status": "HAZARD",
+        "confidence": 89.58,
+        "location_x": 0.8,
+        "location_z": 0.28,
+        "est_width": 5.24,
+        "est_length": 5.02,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:57:14",
+        "status": "HAZARD",
+        "confidence": 91.42,
+        "location_x": 0.82,
+        "location_z": -0.44,
+        "est_width": 0.82,
+        "est_length": 2.28,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:57:15",
+        "status": "HAZARD",
+        "confidence": 93.51,
+        "location_x": 0.76,
+        "location_z": 0.2,
+        "est_width": 5.48,
+        "est_length": 5.14,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:16",
+        "status": "HAZARD",
+        "confidence": 93.97,
+        "location_x": 0.94,
+        "location_z": -0.16,
+        "est_width": 2.71,
+        "est_length": 5.02,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:57:17",
+        "status": "HAZARD",
+        "confidence": 84.53,
+        "location_x": 0.59,
+        "location_z": 0.09,
+        "est_width": 5.34,
+        "est_length": 4.98,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:18",
+        "status": "HAZARD",
+        "confidence": 90.7,
+        "location_x": 0.66,
+        "location_z": 0.07,
+        "est_width": 5.48,
+        "est_length": 5.17,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:57:19",
+        "status": "HAZARD",
+        "confidence": 90.95,
+        "location_x": 0.83,
+        "location_z": 0.38,
+        "est_width": 5.57,
+        "est_length": 5.34,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:57:20",
+        "status": "HAZARD",
+        "confidence": 88.52,
+        "location_x": 0.77,
+        "location_z": -0.2,
+        "est_width": 4.55,
+        "est_length": 3.76,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:21",
+        "status": "HAZARD",
+        "confidence": 89.77,
+        "location_x": 0.86,
+        "location_z": 0.04,
+        "est_width": 5.29,
+        "est_length": 5.03,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:22",
+        "status": "HAZARD",
+        "confidence": 92.43,
+        "location_x": 0.47,
+        "location_z": 0.19,
+        "est_width": 3.5,
+        "est_length": 4.43,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:57:23",
+        "status": "HAZARD",
+        "confidence": 91.83,
+        "location_x": 0.59,
+        "location_z": 0.17,
+        "est_width": 4.14,
+        "est_length": 4.42,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:24",
+        "status": "HAZARD",
+        "confidence": 81.3,
+        "location_x": 0.56,
+        "location_z": 0.46,
+        "est_width": 5.65,
+        "est_length": 5.31,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:57:25",
+        "status": "HAZARD",
+        "confidence": 91.43,
+        "location_x": 0.96,
+        "location_z": 0.17,
+        "est_width": 5.54,
+        "est_length": 5.39,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:26",
+        "status": "HAZARD",
+        "confidence": 89.55,
+        "location_x": 0.92,
+        "location_z": 0.38,
+        "est_width": 5.28,
+        "est_length": 5.01,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:57:27",
+        "status": "HAZARD",
+        "confidence": 77.69,
+        "location_x": 0.62,
+        "location_z": 0.29,
+        "est_width": 4.86,
+        "est_length": 4.28,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:28",
+        "status": "HAZARD",
+        "confidence": 91.64,
+        "location_x": 0.73,
+        "location_z": -0.18,
+        "est_width": 3.54,
+        "est_length": 4.47,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:29",
+        "status": "HAZARD",
+        "confidence": 91.56,
+        "location_x": 0.62,
+        "location_z": -0.28,
+        "est_width": 3.17,
+        "est_length": 3.87,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:57:30",
+        "status": "HAZARD",
+        "confidence": 73.18,
+        "location_x": 0.79,
+        "location_z": -0.15,
+        "est_width": 4.53,
+        "est_length": 4.1,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:57:31",
+        "status": "HAZARD",
+        "confidence": 88.38,
+        "location_x": 0.6,
+        "location_z": -0.19,
+        "est_width": 3.08,
+        "est_length": 4.15,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:57:32",
+        "status": "HAZARD",
+        "confidence": 89.05,
+        "location_x": 0.66,
+        "location_z": -0.32,
+        "est_width": 3.17,
+        "est_length": 3.81,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:57:33",
+        "status": "HAZARD",
+        "confidence": 89.36,
+        "location_x": 0.74,
+        "location_z": 0.33,
+        "est_width": 5.5,
+        "est_length": 5.29,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:57:34",
+        "status": "HAZARD",
+        "confidence": 87.17,
+        "location_x": 0.06,
+        "location_z": 0.78,
+        "est_width": 4.82,
+        "est_length": 4.46,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:57:35",
+        "status": "HAZARD",
+        "confidence": 90.81,
+        "location_x": 0.76,
+        "location_z": -0.12,
+        "est_width": 4.3,
+        "est_length": 4.26,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:37",
+        "status": "HAZARD",
+        "confidence": 87.26,
+        "location_x": 0.83,
+        "location_z": 0.03,
+        "est_width": 5.61,
+        "est_length": 5.36,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:57:38",
+        "status": "HAZARD",
+        "confidence": 90.64,
+        "location_x": 0.79,
+        "location_z": 0.01,
+        "est_width": 4.58,
+        "est_length": 4.09,
+        "lidar_hits": 13
+    },
+    {
+        "timestamp": "2026-05-16 15:57:39",
+        "status": "HAZARD",
+        "confidence": 85.91,
+        "location_x": 0.81,
+        "location_z": -0.08,
+        "est_width": 4.36,
+        "est_length": 3.82,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:40",
+        "status": "HAZARD",
+        "confidence": 88.83,
+        "location_x": 0.75,
+        "location_z": 0.27,
+        "est_width": 4.35,
+        "est_length": 4.1,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:57:41",
+        "status": "HAZARD",
+        "confidence": 89.14,
+        "location_x": 0.6,
+        "location_z": 0.13,
+        "est_width": 4.85,
+        "est_length": 4.32,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:57:42",
+        "status": "HAZARD",
+        "confidence": 89.59,
+        "location_x": 0.67,
+        "location_z": -0.27,
+        "est_width": 3.13,
+        "est_length": 4.13,
+        "lidar_hits": 17
+    },
+    {
+        "timestamp": "2026-05-16 15:57:43",
+        "status": "HAZARD",
+        "confidence": 91.29,
+        "location_x": 0.82,
+        "location_z": -0.5,
+        "est_width": 0.55,
+        "est_length": 0.48,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:57:44",
+        "status": "HAZARD",
+        "confidence": 90.74,
+        "location_x": 0.47,
+        "location_z": 0.57,
+        "est_width": 4.83,
+        "est_length": 4.11,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:57:45",
+        "status": "HAZARD",
+        "confidence": 89.45,
+        "location_x": 0.84,
+        "location_z": -0.16,
+        "est_width": 4.77,
+        "est_length": 4.15,
+        "lidar_hits": 32
+    },
+    {
+        "timestamp": "2026-05-16 15:57:46",
+        "status": "HAZARD",
+        "confidence": 90.18,
+        "location_x": 0.61,
+        "location_z": 0.33,
+        "est_width": 4.68,
+        "est_length": 4.38,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:47",
+        "status": "HAZARD",
+        "confidence": 89.92,
+        "location_x": 0.21,
+        "location_z": 0.55,
+        "est_width": 4.34,
+        "est_length": 4.19,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:48",
+        "status": "HAZARD",
+        "confidence": 90.83,
+        "location_x": 0.13,
+        "location_z": 0.67,
+        "est_width": 4.28,
+        "est_length": 4.38,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:49",
+        "status": "HAZARD",
+        "confidence": 92.48,
+        "location_x": 0.35,
+        "location_z": 0.13,
+        "est_width": 3.17,
+        "est_length": 4.32,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:50",
+        "status": "HAZARD",
+        "confidence": 89.67,
+        "location_x": 0.84,
+        "location_z": 0.09,
+        "est_width": 4.78,
+        "est_length": 4.13,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:57:51",
+        "status": "HAZARD",
+        "confidence": 86.36,
+        "location_x": 0.78,
+        "location_z": -0.44,
+        "est_width": 0.44,
+        "est_length": 0.63,
+        "lidar_hits": 20
+    },
+    {
+        "timestamp": "2026-05-16 15:57:52",
+        "status": "HAZARD",
+        "confidence": 87.31,
+        "location_x": 0.4,
+        "location_z": 0.13,
+        "est_width": 3.54,
+        "est_length": 4.3,
+        "lidar_hits": 32
+    },
+    {
+        "timestamp": "2026-05-16 15:57:53",
+        "status": "HAZARD",
+        "confidence": 85.79,
+        "location_x": 0.67,
+        "location_z": -0.16,
+        "est_width": 4.29,
+        "est_length": 4.25,
+        "lidar_hits": 32
+    },
+    {
+        "timestamp": "2026-05-16 15:57:54",
+        "status": "HAZARD",
+        "confidence": 89.11,
+        "location_x": 1.32,
+        "location_z": 0.51,
+        "est_width": 2.95,
+        "est_length": 5.21,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:57:55",
+        "status": "HAZARD",
+        "confidence": 88.72,
+        "location_x": 0.64,
+        "location_z": -0.32,
+        "est_width": 3.12,
+        "est_length": 4.18,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:57:56",
+        "status": "HAZARD",
+        "confidence": 92.17,
+        "location_x": 0.9,
+        "location_z": 0.05,
+        "est_width": 4.31,
+        "est_length": 4.2,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:57:57",
+        "status": "HAZARD",
+        "confidence": 89.05,
+        "location_x": 0.76,
+        "location_z": -0.13,
+        "est_width": 5.33,
+        "est_length": 5.07,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:57:58",
+        "status": "HAZARD",
+        "confidence": 93.16,
+        "location_x": 0.48,
+        "location_z": 0.03,
+        "est_width": 3.59,
+        "est_length": 4.24,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:57:59",
+        "status": "HAZARD",
+        "confidence": 91.66,
+        "location_x": 0.95,
+        "location_z": -0.28,
+        "est_width": 1.58,
+        "est_length": 2.78,
+        "lidar_hits": 11
+    },
+    {
+        "timestamp": "2026-05-16 15:58:00",
+        "status": "HAZARD",
+        "confidence": 89.97,
+        "location_x": 1.08,
+        "location_z": 0.03,
+        "est_width": 2.97,
+        "est_length": 5.31,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:58:01",
+        "status": "HAZARD",
+        "confidence": 90.97,
+        "location_x": 0.68,
+        "location_z": -0.03,
+        "est_width": 5.37,
+        "est_length": 4.97,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:58:02",
+        "status": "HAZARD",
+        "confidence": 91.08,
+        "location_x": 0.54,
+        "location_z": 0.12,
+        "est_width": 4.98,
+        "est_length": 4.45,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:58:03",
+        "status": "HAZARD",
+        "confidence": 88.27,
+        "location_x": 0.61,
+        "location_z": -0.26,
+        "est_width": 3.24,
+        "est_length": 4.23,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:58:04",
+        "status": "HAZARD",
+        "confidence": 86.9,
+        "location_x": 0.78,
+        "location_z": -0.23,
+        "est_width": 4.55,
+        "est_length": 4.26,
+        "lidar_hits": 28
+    },
+    {
+        "timestamp": "2026-05-16 15:58:05",
+        "status": "HAZARD",
+        "confidence": 92.18,
+        "location_x": 0.72,
+        "location_z": 0.39,
+        "est_width": 5.52,
+        "est_length": 5.24,
+        "lidar_hits": 26
+    },
+    {
+        "timestamp": "2026-05-16 15:58:06",
+        "status": "HAZARD",
+        "confidence": 92.09,
+        "location_x": 0.75,
+        "location_z": -0.11,
+        "est_width": 4.31,
+        "est_length": 4.16,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:58:07",
+        "status": "HAZARD",
+        "confidence": 89.52,
+        "location_x": 0.91,
+        "location_z": -0.02,
+        "est_width": 5.54,
+        "est_length": 5.37,
+        "lidar_hits": 27
+    },
+    {
+        "timestamp": "2026-05-16 15:58:08",
+        "status": "HAZARD",
+        "confidence": 90.37,
+        "location_x": 1.02,
+        "location_z": -0.11,
+        "est_width": 2.68,
+        "est_length": 5.03,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:58:09",
+        "status": "HAZARD",
+        "confidence": 90.58,
+        "location_x": 0.6,
+        "location_z": 0.32,
+        "est_width": 4.82,
+        "est_length": 4.16,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:58:10",
+        "status": "HAZARD",
+        "confidence": 92.95,
+        "location_x": 0.41,
+        "location_z": -0.06,
+        "est_width": 3.25,
+        "est_length": 4.27,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:58:11",
+        "status": "HAZARD",
+        "confidence": 92.83,
+        "location_x": 0.7,
+        "location_z": -0.12,
+        "est_width": 5.52,
+        "est_length": 5.4,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:58:12",
+        "status": "HAZARD",
+        "confidence": 92.01,
+        "location_x": 0.94,
+        "location_z": -0.22,
+        "est_width": 2.06,
+        "est_length": 3.84,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:58:13",
+        "status": "HAZARD",
+        "confidence": 90.93,
+        "location_x": 0.89,
+        "location_z": -0.34,
+        "est_width": 1.77,
+        "est_length": 3.08,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:58:14",
+        "status": "HAZARD",
+        "confidence": 86.89,
+        "location_x": 0.77,
+        "location_z": -0.06,
+        "est_width": 5.61,
+        "est_length": 5.29,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:58:15",
+        "status": "HAZARD",
+        "confidence": 90.51,
+        "location_x": 0.5,
+        "location_z": 0.13,
+        "est_width": 4.3,
+        "est_length": 4.27,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:58:16",
+        "status": "HAZARD",
+        "confidence": 90.66,
+        "location_x": 0.84,
+        "location_z": -0.14,
+        "est_width": 5.36,
+        "est_length": 5.02,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:58:17",
+        "status": "HAZARD",
+        "confidence": 91.05,
+        "location_x": 0.3,
+        "location_z": 0.28,
+        "est_width": 3.26,
+        "est_length": 4.43,
+        "lidar_hits": 31
+    },
+    {
+        "timestamp": "2026-05-16 15:58:18",
+        "status": "HAZARD",
+        "confidence": 83.04,
+        "location_x": 0.44,
+        "location_z": 0.87,
+        "est_width": 5.64,
+        "est_length": 5.41,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:58:19",
+        "status": "HAZARD",
+        "confidence": 90.94,
+        "location_x": 0.76,
+        "location_z": 0.44,
+        "est_width": 5.38,
+        "est_length": 4.97,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:58:20",
+        "status": "HAZARD",
+        "confidence": 92.2,
+        "location_x": 0.62,
+        "location_z": 0.01,
+        "est_width": 4.87,
+        "est_length": 4.21,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:58:21",
+        "status": "HAZARD",
+        "confidence": 90.17,
+        "location_x": 0.79,
+        "location_z": -0.45,
+        "est_width": 0.58,
+        "est_length": 0.57,
+        "lidar_hits": 23
+    },
+    {
+        "timestamp": "2026-05-16 15:58:22",
+        "status": "HAZARD",
+        "confidence": 81.08,
+        "location_x": 0.74,
+        "location_z": -0.2,
+        "est_width": 3.66,
+        "est_length": 4.17,
+        "lidar_hits": 22
+    },
+    {
+        "timestamp": "2026-05-16 15:58:23",
+        "status": "HAZARD",
+        "confidence": 78.08,
+        "location_x": 0.3,
+        "location_z": 0.26,
+        "est_width": 3.18,
+        "est_length": 4.42,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:58:34",
+        "status": "HAZARD",
+        "confidence": 90.36,
+        "location_x": 1.02,
+        "location_z": -0.05,
+        "est_width": 2.12,
+        "est_length": 3.99,
+        "lidar_hits": 16
+    },
+    {
+        "timestamp": "2026-05-16 15:58:35",
+        "status": "HAZARD",
+        "confidence": 86.76,
+        "location_x": 0.49,
+        "location_z": -0.1,
+        "est_width": 3.17,
+        "est_length": 4.2,
+        "lidar_hits": 19
+    },
+    {
+        "timestamp": "2026-05-16 15:58:36",
+        "status": "HAZARD",
+        "confidence": 89.84,
+        "location_x": 0.46,
+        "location_z": 0.57,
+        "est_width": 5.37,
+        "est_length": 5.06,
+        "lidar_hits": 25
+    },
+    {
+        "timestamp": "2026-05-16 15:59:52",
+        "status": "HAZARD",
+        "confidence": 53.82,
+        "location_x": -1.26,
+        "location_z": 0.3,
+        "est_width": 5.33,
+        "est_length": 4.75,
+        "lidar_hits": 29
+    },
+    {
+        "timestamp": "2026-05-16 15:59:53",
+        "status": "HAZARD",
+        "confidence": 81.73,
+        "location_x": -0.71,
+        "location_z": 0.73,
+        "est_width": 5.63,
+        "est_length": 5.15,
+        "lidar_hits": 21
+    },
+    {
+        "timestamp": "2026-05-16 15:59:54",
+        "status": "HAZARD",
+        "confidence": 90.9,
+        "location_x": -0.5,
+        "location_z": 0.84,
+        "est_width": 2.63,
+        "est_length": 3.98,
+        "lidar_hits": 15
+    },
+    {
+        "timestamp": "2026-05-16 15:59:55",
+        "status": "HAZARD",
+        "confidence": 77.71,
+        "location_x": 0.77,
+        "location_z": 0.64,
+        "est_width": 4.78,
+        "est_length": 4.09,
+        "lidar_hits": 24
+    },
+    {
+        "timestamp": "2026-05-16 15:59:56",
+        "status": "HAZARD",
+        "confidence": 81.9,
+        "location_x": 0.72,
+        "location_z": -0.29,
+        "est_width": 4.17,
+        "est_length": 4.39,
+        "lidar_hits": 28
+    }
+]
